@@ -56,7 +56,7 @@
    "provides" : {
       "Acme::Speed" : {
          "file" : "lib/Acme/Speed.pm",
-         "version" : "0.01"
+         "version" : "v0.0.2"
       },
       "Acme::Speed::Member::ArakakiHitoe" : {
          "file" : "lib/Acme/Speed/Member/ArakakiHitoe.pm"
@@ -85,7 +85,7 @@
          "web" : "https://github.com/kitak/p5-Acme-Speed"
       }
    },
-   "version" : "0.01",
+   "version" : "0.0.2",
    "x_contributors" : [
       "Keisuke KITA <kei.kita2501@gmail.com>"
    ]
